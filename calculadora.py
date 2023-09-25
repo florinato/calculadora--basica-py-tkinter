@@ -1,3 +1,4 @@
+""" Ejercicio practico """
 from tkinter import Tk, Frame, Entry, Button, StringVar
 
 
